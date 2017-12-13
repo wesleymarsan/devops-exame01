@@ -1,3 +1,0 @@
-#CS
-#LoL
-#Fifa
