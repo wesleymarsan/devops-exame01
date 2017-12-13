@@ -1,5 +1,4 @@
 # devops-exame01
-Futebol;
-Corrida;
-Volei;
-Ciclismo;
+Futebol
+Basquete
+Volei
